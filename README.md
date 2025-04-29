@@ -23,7 +23,6 @@ This project is created and intended to be used for the [Shopify Theme Developme
 | :heavy_check_mark: | Pages (About & Contact)      |
 | :heavy_check_mark: | Advanced Product Page        |
 | :heavy_check_mark: | Search Page                  |
-| :hourglass:        | More lessons coming          |
 
 ## How to use
 
